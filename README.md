@@ -1,4 +1,4 @@
-# 도커 이미지 생성
+# Docker Image 생성
 
 docker build -t [이미지이름] -f [도커파일이름] .
 
